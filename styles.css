@@ -6,10 +6,10 @@ body{
 /* td:nth-child(odd){
 	width:200;
 } */
-#one{
+.one{
 	width:200;
 }
-#two{
+.two{
 	width:600;
 	text-align:center;
 }
