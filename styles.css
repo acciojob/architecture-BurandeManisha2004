@@ -1,1 +1,18 @@
 /*  your css code here. If applicable */
+body{
+	width:1100px;
+	background-color:green;
+}
+td:nth-child(odd){
+	width:200;
+}
+#one{
+	width:200px;
+}
+#two{
+	width:600px;
+	text-align:center;
+}
+ol{
+	display:block;
+}
