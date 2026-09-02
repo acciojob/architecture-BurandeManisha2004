@@ -1,1 +1,14 @@
 /*  your css code here. If applicable */
+td{
+	border-collapse:collapse;
+	border:2px solid grey;
+}
+tr{
+	border-collapse:collapse;
+}
+ol{
+	text-align:center;
+}
+li{
+	text-align:center;
+}
