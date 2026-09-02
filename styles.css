@@ -3,10 +3,10 @@ td{
 	border-collapse:collapse;
 	border:2px solid grey;
 }
-tr td:nth-child(odd) {
+td:nth-child(1),
+td:nth-child(3) {
     width: 200px;
 }
-
 tr td:nth-child(2) {
     width: 600px;
 }
